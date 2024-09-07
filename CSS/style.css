@@ -1,0 +1,127 @@
+*{
+    box-sizing: border-box;
+    Width: 1440px;
+}
+body{
+    background-color: #FAFAFA;
+}
+
+h1{
+    font-family: 'Poppins';
+    font-weight: 400;
+    text-align: center;
+}
+
+h2{
+    font-family: 'Poppins';
+    font-weight: 100;
+    font-size: 30px;
+    color: #A3A5AE;
+    text-align: center;
+    
+}
+
+h3{
+    font-family: 'Poppins';
+    font-weight: 100;
+    font-size: 15px;
+    color: #4C4E61;
+    text-align: center;
+}
+
+#text{
+    font-family: 'Poppins';
+    font-weight: 200;
+    font-size: 15px;
+    color: #A3A5AE;
+    text-align: center;
+}
+
+.text{
+    font-family: 'Poppins';
+    font-weight: 200;
+    font-size: 15px;
+    color: #A3A5AE;
+    text-align: left;
+}
+
+
+.image{
+    width: min-content;
+    height: min-content;
+}
+
+.container1{
+    background: #FAFAFA;
+    border-radius: 10px;
+    
+  
+    position: relative;
+    top: 60px;
+    left: 500px;
+   
+    padding: 10px;
+    width: 350px;
+    height: 200px;
+    margin: 20px;
+    display: flex;
+    border-top: 5px solid #EA5353;
+    box-shadow: 0 4px 8px rgba(2, 3, 2, 0.5);
+   
+}
+
+.container4{
+    background: #FAFAFA;
+    border-radius: 10px;
+    
+  
+    position: relative;
+    top: 60px;
+    left: 500px;
+   
+    padding: 10px;
+    width: 350px;
+    height: 200px;
+    margin: 20px;
+    display: flex;
+    border-top: 5px solid #FCAF4A;
+    box-shadow: 0 4px 8px rgba(2, 3, 2, 0.5);
+   
+}
+
+.container2{
+    background: #FAFAFA;
+    border-radius: 10px;
+    position: absolute;
+    top: 400px;
+    left: 100px;
+    padding: 10px;
+    width: 350px;
+    height: 200px;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    border-top: 5px solid #45D3D3;
+    box-shadow: 0 4px 8px rgba(2, 3, 2, 0.5);
+    
+}
+
+.container3{
+    background: #FAFAFA;
+    border-radius: 10px;
+    position: absolute;
+    top: 400px;
+    left: 920px;
+    
+    padding: 10px;
+    width: 350px;
+    height: 200px;
+    margin: 20px;
+
+    display: flex;
+    justify-content: center;
+    border-top: 5px solid #549EF2;
+    box-shadow: 0 4px 8px rgba(2, 3, 2, 0.5);
+    
+}
+
